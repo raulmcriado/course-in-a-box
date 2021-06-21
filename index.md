@@ -3,70 +3,20 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
+### Objetivo del curso
+
+Gracias a este pequeño tutorial, aprenderás calcular el área y perímetro de muchos polígonos. Puede a todo aquel alumno que quiera repasar o aprender por primera vez a calcular el área y perímetro de figuras planas simples.
+
+### ¿Cómo seguir el curso? 
+
+Este curso está pensado para ser consultado desde un ordenador para poder visualizar correctamente las distintas páginas. Contiene material teórico seguido de ejercicios resueltos y ejercicios de autoevaluación.
+ 
+
+
+
 * **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
 * **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
 * **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
-
-<br> 
-
-<html>
-
-<head>
-        <title>Apps with Toolbar: Graphing Calculator</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<script src="navigation.js"></script>
-</head>
-
-<body>
-<div>
-        <h1>Apps with Toolbar: Graphing Calculator</h1>
-        <p style="width:800px">This page shows how to embed GeoGebra Graphing Calculator without construction in a webpage. 
-        For details about customization please refer to <a href="https://wiki.geogebra.org/en/Reference:Applet_Parameters">documentation</a>. Please check out embedding examples for our other apps:</p>
-          <a class="btn active" id="app_graphing" href="example-graphing.html">Graphing Calculator</a>
-        <a class="btn" id="app_geometry" href="example-geometry.html">Geometry</a>
-        <a class="btn" id="app_classic" href="example-tools.html">Classic</a>
-        <script type="text/javascript" src="https://cdn.geogebra.org/apps/deployggb.js"></script>
-
-        <script type="text/javascript">
-				function perspective(p){
-					updateHelp(p);
-					ggbApplet.setPerspective(p);
-				}
-                var parameters = {
-                        "id":"ggbApplet",
-                        "appName":"graphing",
-                        "width":800,
-                        "height":600,
-                        "showToolBar":true,
-                        "borderColor":null,
-                        "showMenuBar":true,
-                        "allowStyleBar":true,
-                        "showAlgebraInput":true,
-                        "enableLabelDrags":false,
-                        "enableShiftDragZoom":true,
-                        "capturingThreshold":null,
-                        "showToolBarHelp":false,
-                        "errorDialogsActive":true,
-                        "showTutorialLink":true,
-                        "showLogging":true,
-                        "useBrowserForJS":false};
-
-                var applet = new GGBApplet(parameters, '5.0', 'applet_container');
-               //  when used with Math Apps Bundle, uncomment this:
-               //  applet.setHTML5Codebase('GeoGebra/HTML5/5.0/web3d/');
-
-                window.onload = function() { applet.inject('applet_container'); }
-
-        </script>
-
-
-        <div id="applet_container"></div>
-		</div>
-</body>
-
-</html>
-
 
 #### Course-in-a-Box Courses We Love ❤️
 Here are some examples of Course-in-a-Box in the wild:
