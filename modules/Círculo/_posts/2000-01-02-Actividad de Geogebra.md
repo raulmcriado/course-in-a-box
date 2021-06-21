@@ -2,7 +2,7 @@
 title: Actividad
 ---
 
-## Demostración de la fórmula del área de un círculo
+## Aproximación de la fórmula del área de un círculo
 
 
 En esta actividad podrás observar una aproximación del área de un círculo, conociendo el perímetro de la circunferencia en función del radio (en rojo).
