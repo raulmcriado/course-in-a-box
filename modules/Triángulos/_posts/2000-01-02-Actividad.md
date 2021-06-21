@@ -1,22 +1,8 @@
 ---
-title: Elementos de un triángulo y su clasificación
+title: Actividad
 ---
 
-### Definición de triángulo
-
-Un triángulo es un polígono de tres lados y está determinado por sus tres lados (**a**, **b**, y **c**) o por tres puntos no alineados llamados vértices (**A**, **B**, **C**).
+### Actividad
 
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Triangle-labels.svg/512px-Triangle-labels.svg.png" alt="definición de triángulo" width="75%"/></center>
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit...
-
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Triangle-labels.svg/512px-Triangle-labels.svg.png" align="center" alt="my alt text"/>*[Martin Thoma, CC0](https://upload.wikimedia.org/wikipedia/commons/2/21/Triangle-labels.svg])* 
-
-
-Vestibulum eu vulputate magna...
+<iframe scrolling="no" title="Área de un triángulo cualquiera" src="https://www.geogebra.org/material/iframe/id/PFS69ysH/width/1280/height/631/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="1280px" height="631px" style="border:0px;"> </iframe>
