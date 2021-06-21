@@ -1,8 +1,11 @@
 ---
-title: Los triángulos
+title: El círculo
 ---
 
-## Los triangulos 
+## El área de un círculo
+
+El área de un círculo se calcula multiplicando el radio al cuadrado por el número pi.
 
 
-lorem ipsum atem datum
+
+![alt]({{site.baseurl}}/img/circulo.PNG)

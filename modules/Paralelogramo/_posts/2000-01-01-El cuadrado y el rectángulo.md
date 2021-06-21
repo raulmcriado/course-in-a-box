@@ -6,8 +6,8 @@ title: Los paralelogramos
 
 Los paralelogramos son los polígonos de 4 lados cuyos lados opuestos son iguales y paralelos dos a dos.
 
+El área de un paralelogramo se calcula multiplicando la base por su altura.
 
-![alt]({{site.baseurl}}/img/01_tri.PNG)
 ### El cuadrado
 
 Es aquel paralelogramo cuyos lados son de igual longitud y todos sus ángulos son rectos.
@@ -17,7 +17,7 @@ Es aquel paralelogramo cuyos lados son de igual longitud y todos sus ángulos so
 
 Tiene sus lados opuestos de igual longitud dos a dos y todos sus ángulos son rectos.
 
-![alt]({{site.baseurl}}/img/01_tri.PNG)
+![alt]({{site.baseurl}}/img/rect.PNG)
 ### El rombo
 
 Tiene todos sus lados de igual longitud y sus ángulos opuestos iguales dos a dos.
