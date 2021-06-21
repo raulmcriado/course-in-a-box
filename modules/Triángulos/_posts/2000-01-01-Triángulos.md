@@ -7,8 +7,6 @@ Los triángulos son los polígonos de tres lados y sus principales elementos son
 
 Si tomamos un lado del triángulo como base, la altura es la recta que es trazada desde su vértice opuesto hasta que corta la base de manera perpendicular
 
-Los triángulos 
-
 
 ## Área del triángulo
 
